@@ -1,0 +1,601 @@
+,gram,Freq,Polarity,Sentiment,Label
+0,co,296,0.0,Neutral,1
+1,service,287,0.0,Neutral,1
+2,http,271,0.0,Neutral,1
+3,business,264,0.0,Neutral,1
+4,solution,145,0.0,Neutral,1
+5,stks,132,0.0,Neutral,1
+6,plant,130,0.0,Neutral,1
+7,order,129,0.0,Neutral,1
+8,financial,124,0.0,Neutral,1
+9,customer,122,0.0,Neutral,1
+10,nokia,120,0.0,Neutral,1
+11,based,117,0.0,Neutral,1
+12,technology,115,0.0,Neutral,1
+13,corporation,112,0.0,Neutral,1
+14,long,110,-0.05,Negative,0
+15,project,108,0.0,Neutral,1
+16,mobile,108,0.0,Neutral,1
+17,well,107,0.0,Neutral,1
+18,according,105,0.0,Neutral,1
+19,value,105,0.0,Neutral,1
+20,increase,104,0.0,Neutral,1
+21,deal,101,0.0,Neutral,1
+22,increased,101,0.0,Neutral,1
+23,rose,99,0.6,Positive,2
+24,agreement,97,0.0,Neutral,1
+25,plc,97,0.0,Neutral,1
+26,board,95,0.0,Neutral,1
+27,part,95,0.0,Neutral,1
+28,area,94,0.0,Neutral,1
+29,industry,94,0.0,Neutral,1
+30,construction,89,0.0,Neutral,1
+31,building,89,0.0,Neutral,1
+32,buy,88,0.0,Neutral,1
+33,january,88,0.0,Neutral,1
+34,aapl,87,0.0,Neutral,1
+35,network,85,0.0,Neutral,1
+36,line,84,0.0,Neutral,1
+37,high,84,0.16,Positive,2
+38,oy,83,0.0,Neutral,1
+39,september,82,0.0,Neutral,1
+40,development,82,0.0,Neutral,1
+41,expected,82,-0.1,Negative,0
+42,two,81,0.0,Neutral,1
+43,day,80,0.0,Neutral,1
+44,growth,79,0.0,Neutral,1
+45,short,77,0.0,Neutral,1
+46,term,77,0.0,Neutral,1
+47,cost,76,0.0,Neutral,1
+48,paper,76,0.0,Neutral,1
+49,acquisition,76,0.0,Neutral,1
+50,medium,75,0.0,Neutral,1
+51,right,74,0.2857142857142857,Positive,2
+52,director,73,0.0,Neutral,1
+53,earnings,72,0.0,Neutral,1
+54,russia,70,0.0,Neutral,1
+55,maker,70,0.0,Neutral,1
+56,decreased,70,-0.4,Negative,0
+57,equipment,70,0.0,Neutral,1
+58,country,68,0.0,Neutral,1
+59,stake,67,0.0,Neutral,1
+60,global,67,0.0,Neutral,1
+61,employee,67,0.0,Neutral,1
+62,number,66,0.0,Neutral,1
+63,approximately,66,-0.4,Negative,0
+64,annual,66,0.0,Neutral,1
+65,real,64,0.2,Positive,2
+66,exchange,64,0.0,Neutral,1
+67,option,64,0.0,Neutral,1
+68,offer,64,0.0,Neutral,1
+69,tsla,63,0.0,Neutral,1
+70,data,62,0.0,Neutral,1
+71,software,61,0.0,Neutral,1
+72,office,61,0.0,Neutral,1
+73,support,60,0.0,Neutral,1
+74,october,59,0.0,Neutral,1
+75,design,59,0.0,Neutral,1
+76,march,59,0.0,Neutral,1
+77,good,59,0.7,Positive,2
+78,half,58,-0.1666666666666666,Negative,0
+79,including,58,0.0,Neutral,1
+80,start,57,0.0,Neutral,1
+81,supply,57,0.0,Neutral,1
+82,transaction,57,0.0,Neutral,1
+83,ltd,56,0.0,Neutral,1
+84,volume,56,0.0,Neutral,1
+85,manufacturing,56,0.0,Neutral,1
+86,announced,56,0.0,Neutral,1
+87,communication,55,0.0,Neutral,1
+88,lower,55,0.0,Neutral,1
+89,april,55,0.0,Neutral,1
+90,target,54,0.0,Neutral,1
+91,say,54,0.0,Neutral,1
+92,cash,54,0.0,Neutral,1
+93,sector,53,0.0,Neutral,1
+94,steel,53,0.0,Neutral,1
+95,june,53,0.0,Neutral,1
+96,china,53,0.0,Neutral,1
+97,take,53,0.0,Neutral,1
+98,week,53,0.0,Neutral,1
+99,position,53,0.0,Neutral,1
+100,see,52,0.0,Neutral,1
+101,shareholder,52,0.0,Neutral,1
+102,phone,52,0.0,Neutral,1
+103,fell,52,0.0,Neutral,1
+104,facility,52,0.0,Neutral,1
+105,people,52,0.0,Neutral,1
+106,signed,50,0.0,Neutral,1
+107,engineering,50,0.0,Neutral,1
+108,largest,50,0.0,Neutral,1
+109,reported,50,0.0,Neutral,1
+110,expects,50,0.0,Neutral,1
+111,process,50,0.0,Neutral,1
+112,includes,50,0.0,Neutral,1
+113,made,49,0.0,Neutral,1
+114,include,49,0.0,Neutral,1
+115,make,49,0.0,Neutral,1
+116,totalled,49,0.0,Neutral,1
+117,higher,49,0.25,Positive,2
+118,use,49,0.0,Neutral,1
+119,information,49,0.0,Neutral,1
+120,close,48,0.0,Neutral,1
+121,totaled,48,0.0,Neutral,1
+122,three,48,0.0,Neutral,1
+123,application,48,0.0,Neutral,1
+124,electronics,48,0.0,Neutral,1
+125,nine,47,0.0,Neutral,1
+126,subsidiary,47,0.0,Neutral,1
+127,eps,47,0.0,Neutral,1
+128,brand,47,0.0,Neutral,1
+129,next,47,0.0,Neutral,1
+130,back,47,0.0,Neutral,1
+131,estimated,46,0.0,Neutral,1
+132,delivery,46,0.0,Neutral,1
+133,holding,46,0.0,Neutral,1
+134,release,45,0.0,Neutral,1
+135,store,45,0.0,Neutral,1
+136,world,45,0.0,Neutral,1
+137,non,45,0.0,Neutral,1
+138,energy,44,0.0,Neutral,1
+139,related,44,0.0,Neutral,1
+140,february,44,0.0,Neutral,1
+141,level,44,0.0,Neutral,1
+142,swedish,43,0.0,Neutral,1
+143,fb,43,0.0,Neutral,1
+144,investor,43,0.0,Neutral,1
+145,still,43,0.0,Neutral,1
+146,since,43,0.0,Neutral,1
+147,president,43,0.0,Neutral,1
+148,call,43,0.0,Neutral,1
+149,state,43,0.0,Neutral,1
+150,around,43,0.0,Neutral,1
+151,trade,42,0.0,Neutral,1
+152,division,42,0.0,Neutral,1
+153,property,42,0.0,Neutral,1
+154,strong,42,0.4333333333333333,Positive,2
+155,move,42,0.0,Neutral,1
+156,device,42,0.0,Neutral,1
+157,fund,42,0.0,Neutral,1
+158,food,42,0.0,Neutral,1
+159,tax,41,0.0,Neutral,1
+160,cover,41,0.0,Neutral,1
+161,provider,41,0.0,Neutral,1
+162,set,41,0.0,Neutral,1
+163,power,41,0.0,Neutral,1
+164,nordic,41,0.0,Neutral,1
+165,uk,41,0.0,Neutral,1
+166,baltic,41,0.0,Neutral,1
+167,capacity,41,0.0,Neutral,1
+168,model,40,0.0,Neutral,1
+169,security,40,0.0,Neutral,1
+170,corp,40,0.0,Neutral,1
+171,work,40,0.0,Neutral,1
+172,cent,40,0.0,Neutral,1
+173,look,40,0.0,Neutral,1
+174,member,40,0.0,Neutral,1
+175,material,40,0.0,Neutral,1
+176,international,40,0.0,Neutral,1
+177,issue,40,0.0,Neutral,1
+178,low,39,0.0,Neutral,1
+179,major,39,0.0625,Positive,2
+180,spy,39,0.0,Neutral,1
+181,sweden,39,0.0,Neutral,1
+182,retail,39,0.0,Neutral,1
+183,distribution,39,0.0,Neutral,1
+184,cut,39,0.0,Neutral,1
+185,august,39,0.0,Neutral,1
+186,consumer,39,0.0,Neutral,1
+187,added,39,0.0,Neutral,1
+188,available,39,0.4,Positive,2
+189,chairman,39,0.0,Neutral,1
+190,program,38,0.0,Neutral,1
+191,currently,38,0.0,Neutral,1
+192,chart,38,0.0,Neutral,1
+193,following,38,0.0,Neutral,1
+194,july,38,0.0,Neutral,1
+195,city,38,0.0,Neutral,1
+196,general,38,0.05,Positive,2
+197,due,38,-0.125,Negative,0
+198,significant,38,0.375,Positive,2
+199,head,38,0.0,Neutral,1
+200,http co,132,0.0,Neutral,1
+201,http stks,132,0.0,Neutral,1
+202,stks co,132,0.0,Neutral,1
+203,board director,36,0.0,Neutral,1
+204,stora enso,29,0.0,Neutral,1
+205,st petersburg,29,0.0,Neutral,1
+206,real estate,29,0.2,Positive,2
+207,alma medium,28,0.0,Neutral,1
+208,mobile phone,28,0.0,Neutral,1
+209,earnings eps,27,0.0,Neutral,1
+210,long term,27,-0.05,Negative,0
+211,voting right,26,0.2857142857142857,Positive,2
+212,non recurring,26,0.0,Neutral,1
+213,cash flow,24,0.0,Neutral,1
+214,general meeting,22,0.05,Positive,2
+215,business area,22,0.0,Neutral,1
+216,recurring item,21,0.0,Neutral,1
+217,baltic country,18,0.0,Neutral,1
+218,upm kymmene,17,0.0,Neutral,1
+219,value order,17,0.0,Neutral,1
+220,joint venture,17,0.0,Neutral,1
+221,managing director,17,0.0,Neutral,1
+222,nokia siemens,17,0.0,Neutral,1
+223,january september,17,0.0,Neutral,1
+224,exchange release,16,0.0,Neutral,1
+225,increased respectively,16,0.0,Neutral,1
+226,financial detail,16,0.0,Neutral,1
+227,alexandria va,16,0.0,Neutral,1
+228,press release,15,0.0,Neutral,1
+229,raw material,15,-0.2307692307692307,Negative,0
+230,north america,15,0.0,Neutral,1
+231,look like,15,0.0,Neutral,1
+232,excluding non,15,0.0,Neutral,1
+233,annual general,15,0.05,Positive,2
+234,ab inbev,15,0.0,Neutral,1
+235,square metre,14,0.0,Neutral,1
+236,fair value,14,0.7,Positive,2
+237,vice president,14,0.0,Neutral,1
+238,siemens network,14,0.0,Neutral,1
+239,equipment maker,14,0.0,Neutral,1
+240,april june,13,0.0,Neutral,1
+241,high quality,13,0.16,Positive,2
+242,financial statement,13,0.0,Neutral,1
+243,chairman board,13,0.0,Neutral,1
+244,czech republic,13,0.0,Neutral,1
+245,chief executive,13,0.0,Neutral,1
+246,standard chartered,13,0.0,Neutral,1
+247,viking line,12,0.0,Neutral,1
+248,solution provider,12,0.0,Neutral,1
+249,january june,12,0.0,Neutral,1
+250,take place,12,0.0,Neutral,1
+251,data service,12,0.0,Neutral,1
+252,manufacturing service,12,0.0,Neutral,1
+253,recall model,12,0.0,Neutral,1
+254,aldata solution,12,0.0,Neutral,1
+255,option right,11,0.2857142857142857,Positive,2
+256,short term,11,0.0,Neutral,1
+257,world largest,11,0.0,Neutral,1
+258,stainless steel,11,0.2,Positive,2
+259,signed agreement,11,0.0,Neutral,1
+260,amer sport,11,0.0,Neutral,1
+261,service provider,11,0.0,Neutral,1
+262,pre tax,10,0.0,Neutral,1
+263,nnen tehtaat,10,0.0,Neutral,1
+264,steel maker,10,0.0,Neutral,1
+265,life insurance,10,0.0,Neutral,1
+266,interest income,10,0.0,Neutral,1
+267,eps amounted,10,0.0,Neutral,1
+268,cost saving,10,0.0,Neutral,1
+269,employ approximately,10,-0.4,Negative,0
+270,hk ruokatalo,10,0.0,Neutral,1
+271,department store,9,0.0,Neutral,1
+272,ahlstrom corporation,9,0.0,Neutral,1
+273,corporation exchange,9,0.0,Neutral,1
+274,value property,9,0.0,Neutral,1
+275,trade register,9,0.0,Neutral,1
+276,lay offs,9,0.0,Neutral,1
+277,future outlook,9,0.0,Neutral,1
+278,mobile device,9,0.0,Neutral,1
+279,tsla http,9,0.0,Neutral,1
+280,adp feb,9,0.0,Neutral,1
+281,suominen corporation,9,0.0,Neutral,1
+282,software developer,9,0.0,Neutral,1
+283,britain ftse,9,0.0,Neutral,1
+284,forest industry,9,0.0,Neutral,1
+285,pulp paper,9,0.0,Neutral,1
+286,united state,9,0.0,Neutral,1
+287,july september,9,0.0,Neutral,1
+288,order worth,9,0.3,Positive,2
+289,latin america,9,0.0,Neutral,1
+290,hong kong,9,0.0,Neutral,1
+291,elcoteq se,8,0.0,Neutral,1
+292,natural gas,8,0.1,Positive,2
+293,expected increase,8,-0.1,Negative,0
+294,nordic exchange,8,0.0,Neutral,1
+295,thomson financial,8,0.0,Neutral,1
+296,brand analysis,8,0.0,Neutral,1
+297,analysis give,8,0.0,Neutral,1
+298,give clear,8,0.1,Positive,2
+299,clear overview,8,0.1,Positive,2
+300,overview actual,8,0.0,Neutral,1
+301,actual situation,8,0.0,Neutral,1
+302,situation future,8,0.0,Neutral,1
+303,goldman sachs,8,0.0,Neutral,1
+304,global research,8,0.0,Neutral,1
+305,research data,8,0.0,Neutral,1
+306,royal mail,8,0.0,Neutral,1
+307,mobile fixed,8,0.1,Positive,2
+308,private equity,8,0.0,Neutral,1
+309,software solution,8,0.0,Neutral,1
+310,financial service,8,0.0,Neutral,1
+311,approximately people,8,-0.4,Negative,0
+312,shopping center,8,-0.1,Negative,0
+313,expected completed,8,-0.1,Negative,0
+314,electronics manufacturing,8,0.0,Neutral,1
+315,power plant,8,0.0,Neutral,1
+316,sport equipment,8,0.0,Neutral,1
+317,food industry,8,0.0,Neutral,1
+318,order book,8,0.0,Neutral,1
+319,liquid handling,8,0.0,Neutral,1
+320,nokian tyre,8,0.0,Neutral,1
+321,fixed network,8,0.1,Positive,2
+322,silicon wafer,8,0.0,Neutral,1
+323,employ people,8,0.0,Neutral,1
+324,sek bn,8,0.0,Neutral,1
+325,annual capacity,8,0.0,Neutral,1
+326,exchange announcement,7,0.0,Neutral,1
+327,area sq,7,0.0,Neutral,1
+328,sysopen digia,7,0.0,Neutral,1
+329,diluted earnings,7,0.0,Neutral,1
+330,iron ore,7,0.0,Neutral,1
+331,consulting engineering,7,0.0,Neutral,1
+332,issue benchmark,7,0.0,Neutral,1
+333,http chart,7,0.0,Neutral,1
+334,chart ly,7,0.0,Neutral,1
+335,construction yit,7,0.0,Neutral,1
+336,tekla structure,7,0.0,Neutral,1
+337,flexible packaging,7,0.0,Neutral,1
+338,building service,7,0.0,Neutral,1
+339,bhp billiton,7,0.0,Neutral,1
+340,talvivaara mining,7,0.0,Neutral,1
+341,estate fund,7,0.0,Neutral,1
+342,outokumpu technology,7,0.0,Neutral,1
+343,machinery equipment,7,0.0,Neutral,1
+344,cancer drug,7,0.0,Neutral,1
+345,nokia corp,7,0.0,Neutral,1
+346,balance sheet,7,0.0,Neutral,1
+347,oriola kd,7,0.0,Neutral,1
+348,model suv,7,0.0,Neutral,1
+349,director propose,7,0.0,Neutral,1
+350,next week,7,0.0,Neutral,1
+351,real corporation,7,0.2,Positive,2
+352,rose nine,6,0.6,Positive,2
+353,subscribed option,6,0.0,Neutral,1
+354,rautaruukki rtrks,6,0.0,Neutral,1
+355,wholly owned,6,0.0,Neutral,1
+356,decreased january,6,-0.4,Negative,0
+357,january march,6,0.0,Neutral,1
+358,double bottom,6,0.0,Neutral,1
+359,tsla recall,6,0.0,Neutral,1
+360,design manufacture,6,0.0,Neutral,1
+361,aker yard,6,0.0,Neutral,1
+362,conference call,6,0.0,Neutral,1
+363,medium corporation,6,0.0,Neutral,1
+364,broadband data,6,0.0,Neutral,1
+365,data communication,6,0.0,Neutral,1
+366,listed nordic,6,0.0,Neutral,1
+367,related service,6,0.0,Neutral,1
+368,subscription option,6,0.0,Neutral,1
+369,incap manufacturing,6,0.0,Neutral,1
+370,service business,6,0.0,Neutral,1
+371,order includes,6,0.0,Neutral,1
+372,aspo plc,6,0.0,Neutral,1
+373,poyry plc,6,0.0,Neutral,1
+374,pohjola plc,6,0.0,Neutral,1
+375,lassila tikanoja,6,0.0,Neutral,1
+376,steel structure,6,0.0,Neutral,1
+377,detail disclosed,6,0.0,Neutral,1
+378,competition authority,6,0.0,Neutral,1
+379,outlook pharmaceutical,6,0.0,Neutral,1
+380,consumer good,6,0.7,Positive,2
+381,le coq,6,0.0,Neutral,1
+382,maker rautaruukki,6,0.0,Neutral,1
+383,supply chain,6,0.0,Neutral,1
+384,approximately employee,6,-0.4,Negative,0
+385,lemmink inen,6,0.0,Neutral,1
+386,cargo volume,6,0.0,Neutral,1
+387,office building,6,0.0,Neutral,1
+388,forest machinery,6,0.0,Neutral,1
+389,core business,6,0.0,Neutral,1
+390,coca cola,6,0.0,Neutral,1
+391,long setup,6,-0.05,Negative,0
+392,personnel negotiation,6,0.0,Neutral,1
+393,six increased,6,0.0,Neutral,1
+394,credit facility,6,0.0,Neutral,1
+395,solution developer,6,0.0,Neutral,1
+396,approximately person,6,-0.4,Negative,0
+397,eps rose,6,0.6,Positive,2
+398,manufacturing plant,6,0.0,Neutral,1
+399,member board,6,0.0,Neutral,1
+400,http stks co,132,0.0,Neutral,1
+401,non recurring item,21,0.0,Neutral,1
+402,excluding non recurring,15,0.0,Neutral,1
+403,annual general meeting,15,0.05,Positive,2
+404,nokia siemens network,14,0.0,Neutral,1
+405,earnings eps amounted,10,0.0,Neutral,1
+406,fair value property,9,0.7,Positive,2
+407,tsla http co,9,0.0,Neutral,1
+408,analysis give clear,8,0.1,Positive,2
+409,give clear overview,8,0.1,Positive,2
+410,clear overview actual,8,0.05,Positive,2
+411,overview actual situation,8,0.0,Neutral,1
+412,actual situation future,8,0.0,Neutral,1
+413,situation future outlook,8,0.0,Neutral,1
+414,global research data,8,0.0,Neutral,1
+415,research data service,8,0.0,Neutral,1
+416,diluted earnings eps,7,0.0,Neutral,1
+417,http chart ly,7,0.0,Neutral,1
+418,electronics manufacturing service,7,0.0,Neutral,1
+419,real estate fund,7,0.2,Positive,2
+420,mobile fixed network,7,0.1,Positive,2
+421,board director propose,7,0.0,Neutral,1
+422,alma medium corporation,6,0.0,Neutral,1
+423,listed nordic exchange,6,0.0,Neutral,1
+424,brand analysis give,6,0.0,Neutral,1
+425,future outlook pharmaceutical,6,0.0,Neutral,1
+426,steel maker rautaruukki,6,0.0,Neutral,1
+427,six increased respectively,6,0.0,Neutral,1
+428,recall model suv,6,0.0,Neutral,1
+429,employ approximately people,6,-0.4,Negative,0
+430,non life insurance,6,0.0,Neutral,1
+431,registered trade register,5,0.0,Neutral,1
+432,temporary lay offs,5,0.0,Neutral,1
+433,corporation press release,5,0.0,Neutral,1
+434,broadband data communication,5,0.0,Neutral,1
+435,printed circuit board,5,0.0,Neutral,1
+436,data service published,5,0.0,Neutral,1
+437,service published recently,5,0.0,Neutral,1
+438,published recently analysis,5,0.0,Neutral,1
+439,recently analysis pharmaceutical,5,0.0,Neutral,1
+440,corporation exchange release,5,0.0,Neutral,1
+441,united state patent,5,0.0,Neutral,1
+442,cash flow activity,5,0.0,Neutral,1
+443,signed long term,5,-0.05,Negative,0
+444,development manufacture marketing,5,0.0,Neutral,1
+445,mobile phone charger,5,0.0,Neutral,1
+446,propose annual general,5,0.05,Positive,2
+447,patent trademark office,5,0.0,Neutral,1
+448,scanfil supplier communication,5,0.0,Neutral,1
+449,earnings eps rose,5,0.6,Positive,2
+450,invoice electronic format,5,0.0,Neutral,1
+451,corporation exchange announcement,4,0.0,Neutral,1
+452,representing voting right,4,0.2857142857142857,Positive,2
+453,solution provider affecto,4,0.0,Neutral,1
+454,sq sq ft,4,0.0,Neutral,1
+455,stainless steel maker,4,0.2,Positive,2
+456,nflx http co,4,0.0,Neutral,1
+457,data communication provider,4,0.0,Neutral,1
+458,communication provider teleste,4,0.0,Neutral,1
+459,provider teleste tlt,4,0.0,Neutral,1
+460,three increased respectively,4,0.0,Neutral,1
+461,aapl http co,4,0.0,Neutral,1
+462,pharmaceutical czech republic,4,0.0,Neutral,1
+463,technical building service,4,0.0,Neutral,1
+464,maker rautaruukki rtrks,4,0.0,Neutral,1
+465,rautaruukki rtrks ruukki,4,0.0,Neutral,1
+466,component supplier componenta,4,0.0,Neutral,1
+467,manufacturing service em,4,0.0,Neutral,1
+468,incap manufacturing service,4,0.0,Neutral,1
+469,sbux http co,4,0.0,Neutral,1
+470,liquid handling diagnostic,4,0.0,Neutral,1
+471,handling diagnostic test,4,0.0,Neutral,1
+472,state patent issued,4,0.0,Neutral,1
+473,recurring item totalled,4,0.0,Neutral,1
+474,sport equipment maker,4,0.0,Neutral,1
+475,talvivaara mining plc,4,0.0,Neutral,1
+476,manufacture marketing high,4,0.16,Positive,2
+477,marketing high performance,4,0.16,Positive,2
+478,prepaid post paid,4,0.0,Neutral,1
+479,post paid billing,4,0.0,Neutral,1
+480,paid billing charging,4,0.0,Neutral,1
+481,billing charging rating,4,0.0,Neutral,1
+482,charging rating voice,4,0.0,Neutral,1
+483,content service mobile,4,0.0,Neutral,1
+484,director propose annual,4,0.0,Neutral,1
+485,tsla recall model,4,0.0,Neutral,1
+486,board director proposed,4,0.0,Neutral,1
+487,rapala vmc corporation,4,0.0,Neutral,1
+488,alexandria va oct,4,0.0,Neutral,1
+489,developed ornamental design,4,0.1,Positive,2
+490,trademark office announced,4,0.0,Neutral,1
+491,tesla motor recall,4,0.0,Neutral,1
+492,motor recall model,4,0.0,Neutral,1
+493,supplier communication sector,4,0.0,Neutral,1
+494,machinery rental ramirent,4,0.0,Neutral,1
+495,interest income increased,4,0.0,Neutral,1
+496,employ approximately person,4,-0.4,Negative,0
+497,steel structure bridge,4,0.0,Neutral,1
+498,model suv tsla,4,0.0,Neutral,1
+499,lifting equipment maker,4,0.0,Neutral,1
+500,ssh communication security,3,0.0,Neutral,1
+501,royal dutch shell,3,0.0,Neutral,1
+502,eps stood versus,3,0.0,Neutral,1
+503,provider affecto afe,3,0.0,Neutral,1
+504,liquefied natural gas,3,0.1,Positive,2
+505,natural gas lng,3,0.1,Positive,2
+506,number voting right,3,0.2857142857142857,Positive,2
+507,world largest stainless,3,0.2,Positive,2
+508,largest stainless steel,3,0.2,Positive,2
+509,press release march,3,0.0,Neutral,1
+510,suomen paikallissanomat oy,3,0.0,Neutral,1
+511,february broadband data,3,0.0,Neutral,1
+512,building home improvement,3,0.0,Neutral,1
+513,home improvement trade,3,0.0,Neutral,1
+514,textile clothing marimekko,3,0.0,Neutral,1
+515,support http stks,3,0.0,Neutral,1
+516,key staff member,3,0.0,Neutral,1
+517,subsidiary incap corporation,3,0.0,Neutral,1
+518,deputy chairman board,3,0.0,Neutral,1
+519,kauko telko ltd,3,0.0,Neutral,1
+520,ragutis controlled brewery,3,0.0,Neutral,1
+521,ebrd using fund,3,0.0,Neutral,1
+522,using fund provide,3,0.0,Neutral,1
+523,fund provide loan,3,0.0,Neutral,1
+524,provide loan portion,3,0.0,Neutral,1
+525,loan portion syndicated,3,0.0,Neutral,1
+526,portion syndicated two,3,0.0,Neutral,1
+527,syndicated two commercial,3,0.0,Neutral,1
+528,two commercial nordea,3,0.0,Neutral,1
+529,commercial nordea plc,3,0.0,Neutral,1
+530,nordea plc pohjola,3,0.0,Neutral,1
+531,plc pohjola plc,3,0.0,Neutral,1
+532,loudeac saint marcel,3,0.0,Neutral,1
+533,entered trade register,3,0.0,Neutral,1
+534,financial detail disclosed,3,0.0,Neutral,1
+535,internet page www,3,0.0,Neutral,1
+536,cutlery hand tool,3,0.0,Neutral,1
+537,hand tool maker,3,0.0,Neutral,1
+538,tool maker fiskars,3,0.0,Neutral,1
+539,maker fiskars abp,3,0.0,Neutral,1
+540,fiskars abp fisa,3,0.0,Neutral,1
+541,building service building,3,0.0,Neutral,1
+542,citycon nominal value,3,0.0,Neutral,1
+543,nominal value subscribed,3,0.0,Neutral,1
+544,exercising option based,3,0.0,Neutral,1
+545,option based option,3,0.0,Neutral,1
+546,gross area sq,3,0.0,Neutral,1
+547,tikkurila powder coating,3,0.0,Neutral,1
+548,arm holding plc,3,0.0,Neutral,1
+549,glass technology glaston,3,0.0,Neutral,1
+550,chief executive officer,3,0.0,Neutral,1
+551,based steel maker,3,0.0,Neutral,1
+552,turned earnings eps,3,0.0,Neutral,1
+553,earnings eps versus,3,0.0,Neutral,1
+554,point day relative,3,0.0,Neutral,1
+555,day relative change,3,0.0,Neutral,1
+556,cargo volume increased,3,0.0,Neutral,1
+557,business area providing,3,0.0,Neutral,1
+558,marine cargo handling,3,0.0,Neutral,1
+559,cargo handling offshore,3,0.0,Neutral,1
+560,handling offshore load,3,0.0,Neutral,1
+561,offshore load handling,3,0.0,Neutral,1
+562,load handling solution,3,0.0,Neutral,1
+563,construct office building,3,0.0,Neutral,1
+564,forest machinery ponsse,3,0.0,Neutral,1
+565,vice chairman board,3,0.0,Neutral,1
+566,construction machinery equipment,3,0.0,Neutral,1
+567,machinery equipment rental,3,0.0,Neutral,1
+568,deal size type,3,0.0,Neutral,1
+569,aspo plc exchange,3,0.0,Neutral,1
+570,equipment maker amer,3,0.0,Neutral,1
+571,maker amer sport,3,0.0,Neutral,1
+572,medium ilkka yhtyma,3,0.0,Neutral,1
+573,pricing detail disclosed,3,0.0,Neutral,1
+574,side casing member,3,0.0,Neutral,1
+575,www ahlstrom com,3,0.0,Neutral,1
+576,leader development manufacture,3,0.0,Neutral,1
+577,financial term disclosed,3,0.0,Neutral,1
+578,swedish stora enso,3,0.0,Neutral,1
+579,chart http stks,3,0.0,Neutral,1
+580,august january june,3,0.0,Neutral,1
+581,revolving credit facility,3,0.0,Neutral,1
+582,exchange release august,3,0.0,Neutral,1
+583,issue benchmark fixed,3,0.1,Positive,2
+584,benchmark fixed rate,3,0.1,Positive,2
+585,fixed rate deal,3,0.1,Positive,2
+586,software solution developer,3,0.0,Neutral,1
+587,service mobile fixed,3,0.1,Positive,2
+588,silicon wafer technology,3,0.0,Neutral,1
+589,wafer technology okmetic,3,0.0,Neutral,1
+590,technology okmetic okm,3,0.0,Neutral,1
+591,decreased january june,3,-0.4,Negative,0
+592,ab inbev sabmiller,3,0.0,Neutral,1
+593,tesla recall model,3,0.0,Neutral,1
+594,pulp paper industry,3,0.0,Neutral,1
+595,vice president corporate,3,0.0,Neutral,1
+596,president corporate communication,3,0.0,Neutral,1
+597,central eastern european,3,0.0,Neutral,1
+598,department store division,3,0.0,Neutral,1
+599,member board director,3,0.0,Neutral,1
